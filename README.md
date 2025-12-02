@@ -1,0 +1,1 @@
+# Practice-for-storing-data-in-console.
